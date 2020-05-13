@@ -8,8 +8,8 @@ This is a project to make our room beautiful and add more bright colors.
 * Argen Teshebaev
 * Begaliev Nursultan
 
-[project at Thinkverse]()
-[YouTube video]()
+ [project at Thinkverse]()
+ [YouTube video]()
 
 ## Parts List
 | Amount | Part |

@@ -8,7 +8,7 @@ This is a project to make our room beautiful and add more bright colors.
 * Argen Teshebaev
 * Begaliev Nursultan
 
-![Drawing](C:\Users\User_U\Music\Sphere)
+![Drawing](C:\Users\User_U\Music\Sphere.PNG)
 
  [project at Thinkverse]()
  [YouTube video]()

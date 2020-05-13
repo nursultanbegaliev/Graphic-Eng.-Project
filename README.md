@@ -12,3 +12,9 @@ This is a project to make our room beautiful and add more bright colors.
 [YouTube video]()
 
 ## Parts List
+| Amount | Part |
+|--------|------|
+|   1   |
+|   1   |
+|   1   |
+|   1   |

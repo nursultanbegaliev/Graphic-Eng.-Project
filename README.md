@@ -7,8 +7,13 @@ This is a project to make our room beautiful and add more bright colors.
 * Tilek Kenzhaev
 * Argen Teshebaev
 * Begaliev Nursultan
+
 Drawing:
 ![alt text]()
+
+![Schematic is here]()
+
+![PCB] ()
 
  [project at Thinkverse]()
 

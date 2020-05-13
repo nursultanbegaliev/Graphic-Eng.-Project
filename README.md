@@ -9,11 +9,11 @@ This is a project to make our room beautiful and add more bright colors.
 * Begaliev Nursultan
 
 Drawing:
-![alt text]()
+![alt text](https://github.com/nursultanbegaliev/Graphic-Eng.-Project-/blob/master/Sphere.PNG)
 
 ![Schematic is here]()
 
-![PCB] ()
+![PCB]()
 
  [project at Thinkverse]()
 

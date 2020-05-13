@@ -10,8 +10,8 @@ This is a project to make our room beautiful and add more bright colors.
 
 ![Drawing](C:\Users\User_U\Music\Sphere.PNG)
 
- [project at Thinkverse]()
- [YouTube video]()
+... [project at Thinkverse]()
+... [YouTube video]()
 
 ## Parts List
 | Amount | Part |

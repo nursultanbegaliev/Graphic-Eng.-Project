@@ -1,4 +1,5 @@
-# System block Ecualizer
+
+# System Case with Equalizer
 
 This is a project to make our room beautiful and add more bright colors. 
 
@@ -9,6 +10,18 @@ This is a project to make our room beautiful and add more bright colors.
 * Nursultan Begaliev
 
 Drawing:
+
+=======
+![alt text]()
+
+![Schematic is here]()
+
+![PCB]()
+
+ [project at Thingiverse]()
+
+ [YouTube video]()
+
 
 ## Parts List
 | AMOUNT: | PARTS: |

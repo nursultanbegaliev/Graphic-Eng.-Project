@@ -1,7 +1,7 @@
 
 # System Case with Equalizer
 
-This is a project intended to make our room beautiful and add more bright colors. 
+This project intended to make our room beautiful and add more bright colors. 
 
 ## Team
 * Argen Teshebaev

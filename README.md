@@ -1,4 +1,4 @@
-# System block Ecualizer
+# System block Equalizer
 
 This is a project to make our room beautiful and add more bright colors. 
 

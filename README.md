@@ -9,14 +9,13 @@ This is a project intended to make our room beautiful and add more bright colors
 * Tilek Kenzhaev
 * Nursultan Begaliev
 
-Drawing:
 
-=======
-![alt text]()
+
+![Drawing]()
 
 ![Schematic is here](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/SCHEME1.jpg)
 
-![PCB]()
+![PCB](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/SCHEME2.jpg)
 
  [project at Thingiverse]()
 

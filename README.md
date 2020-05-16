@@ -1,4 +1,5 @@
-# System Block Equalizer
+
+# System case Equalizer
 
 This is a project to make our room beautiful and add more bright colors. 
 

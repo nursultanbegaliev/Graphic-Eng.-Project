@@ -1,0 +1,11 @@
+PARTS:                       //        AMOUNT:
+
+WS2812 144LEDS                         x256 leds (16 column x 16 leds) 
+ARDUINO MEGA 2560                      x1
+Si5351mcu                              x1
+100NF                                  x4
+RESISTOR 22K                           x2
+RESISTOR 470 OHM                       x1
+IC MSGEQ7 with socket                  x2
+FROSTED GLASS/PLASTIC (445x470x1)      x1
+TINT FILM                              x1

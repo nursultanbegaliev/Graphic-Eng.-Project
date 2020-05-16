@@ -9,15 +9,7 @@ This is a project to make our room beautiful and add more bright colors.
 * Nursultan Begaliev
 
 Drawing:
-![alt text](https://github.com/nursultanbegaliev/Graphic-Eng.-Project-/blob/master/Sphere.PNG)
 
-![Schematic is here]()
-
-![PCB]()
-
- [project at Thinkverse]()
-
- [YouTube video]()
 
 ## Parts List
 | Amount | Part |

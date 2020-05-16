@@ -8,6 +8,12 @@ This is a project to make our room beautiful and add more bright colors.
 * Argen Teshebaev
 * Nursultan Begaliev
 
+
+
+
+
+
+
 Drawing:
 ![alt text](https://github.com/nursultanbegaliev/Graphic-Eng.-Project-/blob/master/Sphere.PNG)
 

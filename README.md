@@ -23,7 +23,7 @@ Drawing:
 ## Parts List
 | Amount | Part |
 |--------|------|
-|   1x280 leds (14 column x 20 led)   | WS2812 144LEDS |
+|   1x256 leds (14 column x 20 led)   | WS2812 144LEDS |
 |   1   | ARDUINO MEGA 2560 |
 |   1   | Si5351mcu |
 |   4   | 100NF |

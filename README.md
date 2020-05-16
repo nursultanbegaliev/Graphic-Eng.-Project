@@ -1,7 +1,7 @@
 
 # System Case with Equalizer
 
-This is a project to make our room beautiful and add more bright colors. 
+This is a project intended to make our room beautiful and add more bright colors. 
 
 ## Team
 * Argen Teshebaev
@@ -14,7 +14,7 @@ Drawing:
 =======
 ![alt text]()
 
-![Schematic is here]()
+![Schematic is here](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/SCHEME1.jpg)
 
 ![PCB]()
 

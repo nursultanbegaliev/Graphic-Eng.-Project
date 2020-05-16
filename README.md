@@ -15,7 +15,7 @@ Drawing:
 
 ![PCB]()
 
- [project at Thinkverse]()
+ [project at Thingiverse]()
 
  [YouTube video]()
 

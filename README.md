@@ -1,7 +1,7 @@
 
 # System Case with Equalizer
 
-This project intended to make our room beautiful and add more bright colors. 
+ We are sure, you've never seen system case that has band spectrum analyzer yet! It was created by our team for interior design for everyone who has a computer. While you are playing games on computer or coding you can turn on cool music and see how your room becomes colorful and the atmosphere of coziness appears. Work in a comfortable environment. Take my words, you are going to enjoy it for sure! In a nutshell there is no use talking about it: you should see it and you'll perceive that I am struggling to put into words now.
 
 ## Team
 * Argen Teshebaev

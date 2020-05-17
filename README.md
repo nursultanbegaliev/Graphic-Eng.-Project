@@ -20,7 +20,9 @@
 
 ![PCB](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/SCHEME2.jpg)
 
- [project at Thingiverse]()
+#### Links to
+
+ [Project at Thingiverse]()
 
  [YouTube video]()
 

@@ -10,11 +10,13 @@
 * Nursultan Begaliev
 
 
+### Drawing
 
 ![Drawing](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/Drawings%20with%20Dimensions/support_2.png)
 
 ![Schematic is here](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/SCHEME1.jpg)
 
+### PCB
 ![PCB](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/SCHEME2.jpg)
 
  [project at Thingiverse]()

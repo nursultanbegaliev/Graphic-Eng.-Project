@@ -10,6 +10,8 @@
 * Nursultan Begaliev
 
 
+
+
 #### Drawing
 
 ![Drawing](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/Drawings%20with%20Dimensions/support_2.png)
@@ -39,3 +41,4 @@
 |   2   | IC MSGEQ7 with socket |
 |   1   | Frosted glass/plastic (445x470x1) |
 |   1   | TINT FILM |
+|   1   | 1NO1NC |

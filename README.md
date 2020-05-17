@@ -14,7 +14,7 @@
 
 #### Drawing
 
-![Drawing](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/Drawings%20with%20Dimensions/support_2.png)
+![Drawing](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/2.png)
 
 #### PCB
 

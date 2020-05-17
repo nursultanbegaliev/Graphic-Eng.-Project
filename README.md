@@ -11,17 +11,6 @@ This is a project to make our room beautiful and add more bright colors.
 
 Drawing:
 
-=======
-![alt text]()
-
-![Schematic is here]()
-
-![PCB]()
-
- [project at Thingiverse]()
-
- [YouTube video]()
-
 
 ## Parts List
 | AMOUNT: | PARTS: |
@@ -35,3 +24,4 @@ Drawing:
 |   2   | IC MSGEQ7 with socket |
 |   1   | Frosted glass/plastic (445x470x1) |
 |   1   | TINT FILM |
+|   1   | 1NO1NC |

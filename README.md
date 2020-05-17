@@ -18,7 +18,7 @@
 
 ![Drawing2](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/1.png)
 
-![Drawing3](![Drawing2](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/1.png))
+![Drawing3](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/Images/Assembly%20screenshots/FULL%20SYSTEM%20CASE_screenshot_1.png)
 
 #### PCB
 

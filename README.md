@@ -16,6 +16,8 @@
 
 ![Drawing](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/2.png)
 
+![Drawing2](![Drawing](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/2.png))
+
 #### PCB
 
 ![Schematic is here](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/SCHEME1.jpg)

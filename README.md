@@ -22,7 +22,7 @@
 
 #### PCB
 
-![Schematic is here](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/SCHEME1.jpg)
+![Schematic is here](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/Images/Circuit%20images/SCHEME1.jpg)
 
 ![PCB](https://github.com/nursultanbegaliev/Graphic-Eng.-Project/blob/master/SCHEME2.jpg)
 
